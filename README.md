@@ -13,11 +13,11 @@
 ![QGIS](https://img.shields.io/badge/QGIS-3.28-93b023?style=for-the-badge&logo=qgis&logoColor=white) 
 <br>![ArcGIS Desktop](https://img.shields.io/badge/ArcGIS%20Desktop-009FDF?style=for-the-badge&logo=esri&logoColor=white) 
 <br>![SAGA GIS](https://img.shields.io/badge/SAGA%20GIS-8B7355?style=for-the-badge) 
-![ENVI](https://img.shields.io/badge/ENVI-000000?style=for-the-badge) 
-![ERDAS](https://img.shields.io/badge/ERDAS%20IMAGINE-003D82?style=for-the-badge) 
-![ESA SNAP](https://img.shields.io/badge/ESA%20SNAP-254060?style=for-the-badge) 
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white) 
-![Google Earth Pro](https://img.shields.io/badge/Google%20Earth%20Pro-4285F4?style=for-the-badge&logo=google&logoColor=white) 
+<br>![ENVI](https://img.shields.io/badge/ENVI-000000?style=for-the-badge) 
+<br>![ERDAS](https://img.shields.io/badge/ERDAS%20IMAGINE-003D82?style=for-the-badge) 
+<br>![ESA SNAP](https://img.shields.io/badge/ESA%20SNAP-254060?style=for-the-badge) 
+<br>![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white) 
+<br>![Google Earth Pro](https://img.shields.io/badge/Google%20Earth%20Pro-4285F4?style=for-the-badge&logo=google&logoColor=white) 
 
 
 
