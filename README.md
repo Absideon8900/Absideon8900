@@ -11,8 +11,8 @@
 
 ### GIS & Geospatial Tools:
 ![QGIS](https://img.shields.io/badge/QGIS-3.28-93b023?style=for-the-badge&logo=qgis&logoColor=white) 
-![ArcGIS Desktop](https://img.shields.io/badge/ArcGIS%20Desktop-009FDF?style=for-the-badge&logo=esri&logoColor=white) 
-![SAGA GIS](https://img.shields.io/badge/SAGA%20GIS-8B7355?style=for-the-badge) 
+<br>![ArcGIS Desktop](https://img.shields.io/badge/ArcGIS%20Desktop-009FDF?style=for-the-badge&logo=esri&logoColor=white) 
+<br>![SAGA GIS](https://img.shields.io/badge/SAGA%20GIS-8B7355?style=for-the-badge) 
 ![ENVI](https://img.shields.io/badge/ENVI-000000?style=for-the-badge) 
 ![ERDAS](https://img.shields.io/badge/ERDAS%20IMAGINE-003D82?style=for-the-badge) 
 ![ESA SNAP](https://img.shields.io/badge/ESA%20SNAP-254060?style=for-the-badge) 
