@@ -10,8 +10,14 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### GIS & Geospatial Tools:
-![QGIS](https://img.shields.io/badge/QGIS-3.28-93b023?style=for-the-badge&logo=qgis&logoColor=white) ![ArcGIS Desktop](https://img.shields.io/badge/ArcGIS%20Desktop-009FDF?style=for-the-badge&logo=esri&logoColor=white) ![SAGA GIS](https://img.shields.io/badge/SAGA%20GIS-8B7355?style=for-the-badge) ![ENVI](https://img.shields.io/badge/ENVI-000000?style=for-the-badge) ![ERDAS](https://img.shields.io/badge/ERDAS%20IMAGINE-003D82?style=for-the-badge) ![ESA SNAP](https://img.shields.io/badge/ESA%20SNAP-254060?style=for-the-badge) ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Google Earth Pro](https://img.shields.io/badge/Google%20Earth%20Pro-4285F4?style=for-the-badge&logo=google&logoColor=white) 
-<img width="40" height="38" alt="image" src="https://github.com/user-attachments/assets/ba404d9f-73a3-4853-9a6b-a1702ea73562" />
+![QGIS](https://img.shields.io/badge/QGIS-3.28-93b023?style=for-the-badge&logo=qgis&logoColor=white) 
+![ArcGIS Desktop](https://img.shields.io/badge/ArcGIS%20Desktop-009FDF?style=for-the-badge&logo=esri&logoColor=white) 
+![SAGA GIS](https://img.shields.io/badge/SAGA%20GIS-8B7355?style=for-the-badge) 
+![ENVI](https://img.shields.io/badge/ENVI-000000?style=for-the-badge) 
+![ERDAS](https://img.shields.io/badge/ERDAS%20IMAGINE-003D82?style=for-the-badge) 
+![ESA SNAP](https://img.shields.io/badge/ESA%20SNAP-254060?style=for-the-badge) 
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white) 
+![Google Earth Pro](https://img.shields.io/badge/Google%20Earth%20Pro-4285F4?style=for-the-badge&logo=google&logoColor=white) 
 
 
 
