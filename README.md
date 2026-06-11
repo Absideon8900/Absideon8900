@@ -1,4 +1,6 @@
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/85d83cb7-516a-4dd2-a125-28fab8553146" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/5c682150-86b9-4f1d-93a1-c64388b9d440" />
+
 
 # 💫 About Me:
 🔭 I'm currently working on Flood Risk Analysis and MCDA-based GIS Projects using QGIS, ArcGIS and SagaGIS.<br>🤝 I'm looking to collaborate on Geospatial Research, GIS Automation, Flood Mapping, and Disaster Management Projects.<br>💬 Ask me about GIS, Remote Sensing, Spatial Analysis, and Python for GIS
